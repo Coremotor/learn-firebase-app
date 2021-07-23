@@ -1,0 +1,6 @@
+export { default as errors } from './errors/reducer'
+export { default as auth } from './auth/reducer'
+export { default as registration } from './registration/reducer'
+export { default as users } from './users/reducer'
+export { default as news } from './news/reducer'
+export { default as theme } from './theme/reducer'
