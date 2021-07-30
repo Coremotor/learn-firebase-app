@@ -1,2 +1,4 @@
 # Name of the project
-> frontend-react-boilerplate
+> Learning Firebase App
+> 
+> https://make-fake-news.ru/
